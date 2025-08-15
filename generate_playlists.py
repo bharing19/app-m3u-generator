@@ -478,11 +478,11 @@ if __name__ == "__main__":
     for service in services:
         try:
             if service == 'pluto':
-                generate_pluto_m3u(regions=regions)
+                generate_pluto_m3u(regions=us)
             elif service == 'plex':
-                generate_plex_m3u(regions=regions)
+                generate_plex_m3u(regions=us)
             elif service == 'samsungtvplus':
-                generate_samsungtvplus_m3u(regions=regions)
+                generate_samsungtvplus_m3u(regions=us)
             elif service == 'stirr':
                 generate_stirr_m3u()
             elif service == 'tubi':
