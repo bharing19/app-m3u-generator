@@ -267,7 +267,7 @@ def generate_plex_m3u(regions=['us', 'ca', 'gb', 'au', 'all'], sort='name'):
         write_m3u_file(f"plex_{region}.m3u", "".join(output_lines))
 
 
-def generate_samsungtvplus_m3u(regions=['us', 'ca', 'gb', 'au', 'de', 'all'], sort='name'):
+def generate_samsungtvplus_m3u(regions=['us', 'ca', 'gb', 'au', 'de', 'kr', 'all'], sort='name'):
     """Generates M3U playlists for SamsungTVPlus."""
     SAMSUNG_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/.channels.json.gz'
     STREAM_URL_TEMPLATE = 'https://jmp2.uk/{slug}'
