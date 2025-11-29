@@ -1,4 +1,4 @@
-🔥 [HOST YOUR OWN VERSION OF THE SCRIPT ON YOUR GOOGLE ACCOUNT](https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info)
+📌 [HOST YOUR OWN VERSION OF THE SCRIPT ON YOUR GOOGLE ACCOUNT](https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info)
 
 # ⭐ FAST Service M3U Playlist Generator
 
