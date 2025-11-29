@@ -1,6 +1,8 @@
 🔥 [HOST YOUR OWN VERSION OF THE SCRIPT ON YOUR GOOGLE ACCOUNT](https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info)
 
-Please support these services by visiting the websites for mor content. [pluto.tv](https://pluto.tv/us/hub/home), [plex](https://www.plex.tv), [samsungtvplus](https://www.samsungtvplus.com), [stirr](https://stirr.com), [tubitv](https://tubitv.com), [roku](https://therokuchannel.roku.com/)
+Please support these services by visiting the websites for mor content. 
+
+[pluto.tv](https://pluto.tv/us/hub/home), [plex](https://www.plex.tv), [samsungtvplus](https://www.samsungtvplus.com), [stirr](https://stirr.com), [tubitv](https://tubitv.com), [roku](https://therokuchannel.roku.com/)
 
 # ⭐ FAST Service M3U Playlist Generator
 
