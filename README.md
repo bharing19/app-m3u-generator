@@ -1,9 +1,5 @@
 🔥 [HOST YOUR OWN VERSION OF THE SCRIPT ON YOUR GOOGLE ACCOUNT](https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info)
 
-Please support these services by visiting the websites for mor content. 
-
-[pluto.tv](https://pluto.tv/us/hub/home), [plex](https://www.plex.tv), [samsungtvplus](https://www.samsungtvplus.com), [stirr](https://stirr.com), [tubitv](https://tubitv.com), [roku](https://therokuchannel.roku.com/)
-
 # ⭐ FAST Service M3U Playlist Generator
 
 This repository automatically generates M3U playlist files for various free ad-supported streaming television (FAST) services using a Python script and GitHub Actions. The playlists include embedded EPG (Electronic Program Guide) information via the `url-tvg` tag in the M3U header.
@@ -119,6 +115,10 @@ If you want to change the specific regions generated, the update schedule, or th
 3.  Adjust the `cron` schedule in `.github/workflows/generate_playlists.yml`.
 4.  Make any other desired changes to the Python script.
 5.  Ensure GitHub Actions are enabled on your fork.
+
+Please support these services by visiting the websites for mor content. 
+
+[pluto.tv](https://pluto.tv/us/hub/home), [plex](https://www.plex.tv), [samsungtvplus](https://www.samsungtvplus.com), [stirr](https://stirr.com), [tubitv](https://tubitv.com), [roku](https://therokuchannel.roku.com/)
 
 ## ▶️ Disclaimer
 
